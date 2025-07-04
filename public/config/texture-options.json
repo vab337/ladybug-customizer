@@ -1,0 +1,46 @@
+{
+  "base": {
+    "wood": {
+      "label": "WOOD",
+      "color": "/textures/wood/Wood050_1K-PNG_Color.png",
+      "roughness": "/textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "/textures/wood/Wood050_1K-PNG_NormalGL.png"
+    },
+    "red": {
+      "label": "Classic Red",
+      "texture": "/textures/red-wood.jpg",
+      "preview": "/textures/red-wood.jpg"
+    }
+  },
+  "wings": {
+    "wood": {
+      "label": "WOOD",
+      "color": "/textures/wood/Wood050_1K-PNG_Color.png",
+      "roughness": "/textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "/textures/wood/Wood050_1K-PNG_NormalGL.png"
+    },
+    "red": {
+      "label": "Classic Red",
+      "texture": "/textures/red-wood.jpg",
+      "preview": "/textures/red-wood.jpg"
+    },
+    "glow": {
+      "label": "Glow Wings",
+      "color": "#00ffff",    
+      "glow": true              
+  }
+  },
+  "hook": {
+    "wood": {
+      "label": "WOOD",
+      "color": "/textures/wood/Wood050_1K-PNG_Color.png",
+      "roughness": "/textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "/textures/wood/Wood050_1K-PNG_NormalGL.png"
+    },
+    "red": {
+      "label": "Classic Red",
+      "texture": "/textures/red-wood.jpg",
+      "preview": "/textures/red-wood.jpg"
+    }
+  }
+}
