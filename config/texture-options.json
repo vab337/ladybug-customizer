@@ -5,7 +5,7 @@
       "color": "textures/wood/Wood050_1K-PNG_Color.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
-      "tint": "#D6C1AC"
+      "preview": "textures/wood/Wood050_1K-PNG_Color.png"
     },
     "red": {
       "label": "Classic Red",
@@ -18,7 +18,7 @@
   "wings": {
     "wood": {
       "label": "WOOD",
-      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+      "color": "textures/wood-spots.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png"
     },
