@@ -2,14 +2,17 @@
   "base": {
     "wood": {
       "label": "WOOD",
-      "color": "/textures/wood/Wood050_1K-PNG_Color.png",
-      "roughness": "/textures/wood/Wood050_1K-PNG_Roughness.png",
-      "normal": "/textures/wood/Wood050_1K-PNG_NormalGL.png"
+      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+      "tint": "#D6C1AC"
     },
     "red": {
       "label": "Classic Red",
-      "texture": "/textures/red-wood.jpg",
-      "preview": "/textures/red-wood.jpg"
+      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+       "tint": "#8B0000"
     }
   },
   "wings": {
@@ -25,13 +28,14 @@
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
        "tint": "#8B0000"
-
     },
-    "glow": {
-      "label": "Glow Wings",
-      "color": "#00ffff",    
-      "glow": true              
-  }
+    "blue": {
+      "label": "Classic Blue",
+      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+       "tint": "#0000FF"
+    }
   },
   "hook": {
     "wood": {
