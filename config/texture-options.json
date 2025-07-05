@@ -12,33 +12,56 @@
       "color": "textures/wood/Wood050_1K-PNG_Color.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
-      "tint": "#FF3636",
+      "tint": "#C22510",
       "preview": "textures/red-wood-preview.jpg"
     }
   },
   "wings": {
     "wood": {
       "label": "WOOD",
-      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+      "color": "textures/wood-spots.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
       "preview": "textures/light-wood-preview.jpg"
     },
     "red": {
-      "label": "Classic Red",
-      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+      "label": "Classic Bug",
+      "color": "textures/wood-spots.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
-      "tint": "#8B0000",
-      "preview": "textures/red-wood-preview.jpg"
-
+      "tint": "#C22510",
+      "preview": "textures/preview/wings-red.png"
     },
-    "blue": {
-      "label": "Classic Blue",
-      "color": "textures/wood/Wood050_1K-PNG_Color.png",
+    "green": {
+      "label": "Classic Bug",
+      "color": "textures/wood-spots.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
-       "tint": "#0000FF"
+      "tint": "#16AD32",
+      "preview": "textures/preview/wings-green.png"
+    },
+    "yellow": {
+      "label": "Yellow Bug",
+      "color": "textures/wood-spots.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+      "tint": "#FFB900",
+      "preview": "textures/preview/wings-yellow.png"
+    },
+    "orange": {
+      "label": "Orange Bug",
+      "color": "textures/wood-spots.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+      "tint": "#E5810D",
+      "preview": "textures/preview/wings-orange.png"
+    },
+    "steel-blue": {
+      "label": "Steel Blue",
+      "color": "textures/steel-blue.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+      "preview": "textures/preview/steel-blue.png"
     }
   },
   "hook": {
