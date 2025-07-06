@@ -39,7 +39,7 @@
       "preview": "textures/preview/wings-red.png"
     },
     "green": {
-      "label": "Classic Bug",
+      "label": "Green Bug",
       "color": "textures/wood-spots.png",
       "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
       "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
@@ -54,6 +54,13 @@
       "tint": "#FFB900",
       "preview": "textures/preview/wings-yellow.png"
     },
+    "black": {
+      "label": "Black Beetle",
+      "color": "textures/black-beetle.png",
+      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
+      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+      "preview": "textures/preview/black-beetle.png"
+    },
     "orange": {
       "label": "Orange Bug",
       "color": "textures/wood-spots.png",
@@ -62,13 +69,15 @@
       "tint": "#E5810D",
       "preview": "textures/preview/wings-orange.png"
     },
+    
+
     "steel-blue": {
       "label": "Steel Blue",
       "color": "textures/metal/image.png",
       "roughness": "textures/metal/Metal049A_1K-JPG_Roughness.jpg",
       "normal": "textures/metal/Metal049A_1K-JPG_NormalGL.jpg",
       "preview": "textures/preview/steel-blue.png",
-      "tint": "002B59"
+      "tint": "#002B59"
     }
   },
   "hook": {
@@ -113,11 +122,11 @@
     },
     "steel-blue": {
       "label": "Steel Blue",
-      "color": "textures/metal/Metal049A_1K-JPG_Color.jpg",
-      "roughness": "textures/wood/Wood050_1K-PNG_Roughness.png",
-      "normal": "textures/wood/Wood050_1K-PNG_NormalGL.png",
+      "color": "textures/metal/image.png",
+      "roughness": "textures/metal/Metal049A_1K-JPG_Roughness.jpg",
+      "normal": "textures/metal/Metal049A_1K-JPG_NormalGL.jpg",
       "preview": "textures/preview/steel-blue.png",
-       "tint": "#E5810D"
+      "tint": "#002B59"
     }
   }
 }
